@@ -1,0 +1,4 @@
+export const POSTFETCHING = 'POSTFETCHING'
+export const POSTSUCCESS = 'POSTSUCCESS'
+export const POSTERROR = 'POSTERROR'
+export const CLICKEDPOST = 'CLICKEDPOST'
